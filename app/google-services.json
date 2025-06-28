@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092800432517",
+    "project_id": "s10aplicacionesmoviles",
+    "storage_bucket": "s10aplicacionesmoviles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092800432517:android:6750cead84f660ba65dcec",
+        "android_client_info": {
+          "package_name": "com.example.app_zone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllhlFIWnoZMo-tU1zQYd9nFxpH8nTpJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
